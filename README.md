@@ -1,4 +1,4 @@
-"# Powerball" 
+# Powerball
 
 Web scraper for chosen Powerball numbers
 
